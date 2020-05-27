@@ -3,5 +3,8 @@ amber
 ash
 burn orange
 black
-bees wax  
+bees wax
+corn
+carrot orange
+calm red
 are the colours of my rainbow
