@@ -1,4 +1,4 @@
-poem of colourful dog
+poem of colourful dog and cats
 aqua
 amber
 ash
@@ -14,5 +14,9 @@ steed
 blacky
 fluffy
 are dogs
+grrr
+twotoes
+here kitty
+are cats
 
 ENDEND is here
